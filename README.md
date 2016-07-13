@@ -3,7 +3,7 @@ This repository contains various textures for use in Minecraft.
 
 A Sample:
 
-<img src="http://i.imgur.com/gGp2elN.png"></p>
+<img src="http://i.imgur.com/YhtCsXj.png"></p>
 
 These textures are free to use by mod authors, texture artists, and custom map makers. 
 Please credit the artist for any texture you use from this repository.
