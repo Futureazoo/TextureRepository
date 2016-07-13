@@ -20,6 +20,6 @@ I hope this comes in handy to any mod authors who don't enjoy texturing, or anyo
 Enjoy!
 -
 
- [<img src="http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png">](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.en_US)
+ [<img src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png">](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Textures are licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.en_US).
+Textures are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-nc-sa/4.0/).
